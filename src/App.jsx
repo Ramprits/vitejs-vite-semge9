@@ -10,7 +10,7 @@ export default function App() {
         sx={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}
       >
         <Typography variant="h6" component="h6" gutterBottom>
-          Material UI Vite.js example
+          Welcome back with mui UI
         </Typography>
       </Box>
     </Container>
